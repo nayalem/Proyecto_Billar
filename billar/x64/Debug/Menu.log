@@ -1,0 +1,282 @@
+﻿  Bola.cpp
+C:\MMM\Menu\Bola.cpp(32,100): error C2065: 'M_PI': identificador no declarado
+C:\MMM\Menu\Bola.cpp(33,100): error C2065: 'M_PI': identificador no declarado
+C:\MMM\Menu\Bola.cpp(108,59): error C2065: 'M_PI': identificador no declarado
+  Boton.cpp
+C:\MMM\Menu\Boton.cpp(15,8): error C2039: "setFont": no es un miembro de "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\MMM\Menu\Boton.cpp(16,8): error C2039: "setCharacterSize": no es un miembro de "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\MMM\Menu\Boton.cpp(17,8): error C2039: "setString": no es un miembro de "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\MMM\Menu\Boton.cpp(18,8): error C2039: "setPosition": no es un miembro de "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\MMM\Menu\Boton.cpp(19,71): error C2039: "getLocalBounds": no es un miembro de "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\MMM\Menu\Boton.cpp(20,72): error C2039: "getLocalBounds": no es un miembro de "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  GUI.cpp
+C:\MMM\Menu\GUI.cpp(109,10): error C2039: "actualizar": no es un miembro de "Menu"
+C:\MMM\Menu\Menu.h(17,7): message : vea la declaración de 'Menu'
+  Juego.cpp
+C:\MMM\Menu\Juego.cpp(112,13): error C2039: "procesarEventos": no es un miembro de "Juego"
+C:\MMM\Menu\Juego.h(23,7): message : vea la declaración de 'Juego'
+C:\MMM\Menu\Juego.cpp(114,9): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(114,28): error C2065: 'eventoSFML': identificador no declarado
+C:\MMM\Menu\Juego.cpp(116,11): error C2065: 'eventoSFML': identificador no declarado
+C:\MMM\Menu\Juego.cpp(119,4): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(122,8): error C2065: 'eventoSFML': identificador no declarado
+C:\MMM\Menu\Juego.cpp(124,5): error C2065: 'gui': identificador no declarado
+C:\MMM\Menu\Juego.cpp(124,26): error C2065: 'gui': identificador no declarado
+C:\MMM\Menu\Juego.cpp(127,8): error C2065: 'eventoSFML': identificador no declarado
+C:\MMM\Menu\Juego.cpp(129,9): error C2065: 'negra': identificador no declarado
+C:\MMM\Menu\Juego.cpp(129,39): error C2065: 'raton': identificador no declarado
+C:\MMM\Menu\Juego.cpp(131,6): error C2065: 'bolaArrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(131,23): error C2065: 'negra': identificador no declarado
+C:\MMM\Menu\Juego.cpp(132,6): error C2065: 'arrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(134,28): error C2065: 'bolasBlancas': identificador no declarado
+C:\MMM\Menu\Juego.cpp(134,5): error C3531: 'bolaBlanca': un símbolo cuyo tipo contiene 'auto' debe tener un inicializador
+C:\MMM\Menu\Juego.cpp(134,26): error C2143: error de sintaxis: falta ';' delante de ':'
+C:\MMM\Menu\Juego.cpp(134,40): error C2143: error de sintaxis: falta ';' delante de ')'
+C:\MMM\Menu\Juego.cpp(136,45): error C2065: 'raton': identificador no declarado
+C:\MMM\Menu\Juego.cpp(138,7): error C2065: 'bolaArrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(139,7): error C2065: 'arrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(145,8): error C2065: 'eventoSFML': identificador no declarado
+C:\MMM\Menu\Juego.cpp(145,61): error C2065: 'arrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(147,5): error C2065: 'bolaArrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(147,47): error C2065: 'bolaArrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(147,81): error C2065: 'raton': identificador no declarado
+C:\MMM\Menu\Juego.cpp(148,6): error C2065: 'bolaArrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(148,40): error C2065: 'raton': identificador no declarado
+C:\MMM\Menu\Juego.cpp(149,5): error C2065: 'arrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(150,5): error C2065: 'movimiento': identificador no declarado
+C:\MMM\Menu\Juego.cpp(151,19): error C2065: 'TACO': identificador no declarado
+C:\MMM\Menu\Juego.cpp(151,25): error C2065: 'bolaArrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(151,5): error C3861: 'reproducirSFX': no se encontró el identificador
+C:\MMM\Menu\Juego.cpp(155,4): error C2065: 'raton': identificador no declarado
+C:\MMM\Menu\Juego.cpp(155,14): error C2065: 'eventoSFML': identificador no declarado
+C:\MMM\Menu\Juego.cpp(156,4): error C2065: 'raton': identificador no declarado
+C:\MMM\Menu\Juego.cpp(156,14): error C2065: 'eventoSFML': identificador no declarado
+C:\MMM\Menu\Juego.cpp(213,12): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\MMM\Menu\Juego.cpp(228,9): error C2660: 'Bola::getPosicion': la función no acepta 2 argumentos
+C:\MMM\Menu\Bola.h(29,15): message : vea la declaración de 'Bola::getPosicion'
+C:\MMM\Menu\Juego.cpp(228,9): message : al hacer coincidir la lista de argumentos '(T, T)'
+          with
+          [
+              T=float
+          ]
+C:\MMM\Menu\Juego.cpp(229,9): error C2660: 'Bola::getPosicion': la función no acepta 2 argumentos
+C:\MMM\Menu\Bola.h(29,15): message : vea la declaración de 'Bola::getPosicion'
+C:\MMM\Menu\Juego.cpp(229,9): message : al hacer coincidir la lista de argumentos '(T, T)'
+          with
+          [
+              T=float
+          ]
+C:\MMM\Menu\Juego.cpp(240,130): error C2039: "getMass": no es un miembro de "Bola"
+C:\MMM\Menu\Bola.h(14,7): message : vea la declaración de 'Bola'
+C:\MMM\Menu\Juego.cpp(240,149): error C2039: "getMass": no es un miembro de "Bola"
+C:\MMM\Menu\Bola.h(14,7): message : vea la declaración de 'Bola'
+C:\MMM\Menu\Juego.cpp(241,130): error C2039: "getMass": no es un miembro de "Bola"
+C:\MMM\Menu\Bola.h(14,7): message : vea la declaración de 'Bola'
+C:\MMM\Menu\Juego.cpp(241,149): error C2039: "getMass": no es un miembro de "Bola"
+C:\MMM\Menu\Bola.h(14,7): message : vea la declaración de 'Bola'
+C:\MMM\Menu\Juego.cpp(242,9): error C2660: 'Bola::getVelocidad': la función no acepta 1 argumentos
+C:\MMM\Menu\Bola.h(30,21): message : vea la declaración de 'Bola::getVelocidad'
+C:\MMM\Menu\Juego.cpp(242,9): message : al hacer coincidir la lista de argumentos '(sf::Vector2<float>)'
+C:\MMM\Menu\Juego.cpp(243,9): error C2660: 'Bola::getVelocidad': la función no acepta 1 argumentos
+C:\MMM\Menu\Bola.h(30,21): message : vea la declaración de 'Bola::getVelocidad'
+C:\MMM\Menu\Juego.cpp(243,9): message : al hacer coincidir la lista de argumentos '(sf::Vector2<float>)'
+C:\MMM\Menu\Juego.cpp(261,8): error C2039: "agregarPuntos": no es un miembro de "GUI"
+C:\MMM\Menu\GUI.h(17,7): message : vea la declaración de 'GUI'
+C:\MMM\Menu\Juego.cpp(261,27): error C2039: "obtenerJugadorActual": no es un miembro de "GUI"
+C:\MMM\Menu\GUI.h(17,7): message : vea la declaración de 'GUI'
+C:\MMM\Menu\Juego.cpp(267,34): error C2039: "obtenerJugadorActual": no es un miembro de "GUI"
+C:\MMM\Menu\GUI.h(17,7): message : vea la declaración de 'GUI'
+C:\MMM\Menu\Juego.cpp(275,31): error C2039: "obtenerLineasBorde": no es un miembro de "Tablero"
+C:\MMM\Menu\Tablero.h(20,7): message : vea la declaración de 'Tablero'
+C:\MMM\Menu\Juego.cpp(275,14): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Juego.cpp(275,14): message : debido a los siguientes miembros:
+C:\MMM\Menu\Juego.cpp(275,14): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Juego.cpp(275,20): error C2143: error de sintaxis: falta ';' delante de ':'
+C:\MMM\Menu\Juego.cpp(275,51): error C2143: error de sintaxis: falta ';' delante de ')'
+C:\MMM\Menu\Juego.cpp(285,14): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Juego.cpp(285,14): message : debido a los siguientes miembros:
+C:\MMM\Menu\Juego.cpp(285,14): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Juego.cpp(287,4): error C3861: 'colisionCirculoHole': no se encontró el identificador
+C:\MMM\Menu\Juego.cpp(303,19): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Juego.cpp(303,19): message : debido a los siguientes miembros:
+C:\MMM\Menu\Juego.cpp(303,19): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Juego.cpp(321,2): error C3861: 'pollEvent': no se encontró el identificador
+C:\MMM\Menu\Juego.cpp(324,69): error C2065: 'sfmlEvento': identificador no declarado
+C:\MMM\Menu\Juego.cpp(341,13): error C2039: "drawable": no es un miembro de "Juego"
+C:\MMM\Menu\Juego.h(23,7): message : vea la declaración de 'Juego'
+C:\MMM\Menu\Juego.cpp(343,2): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(345,2): error C2065: 'tablero': identificador no declarado
+C:\MMM\Menu\Juego.cpp(345,19): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(346,16): error C2065: 'bolasBlancas': identificador no declarado
+C:\MMM\Menu\Juego.cpp(346,2): error C3531: 'i': un símbolo cuyo tipo contiene 'auto' debe tener un inicializador
+C:\MMM\Menu\Juego.cpp(346,14): error C2143: error de sintaxis: falta ';' delante de ':'
+C:\MMM\Menu\Juego.cpp(346,28): error C2143: error de sintaxis: falta ';' delante de ')'
+C:\MMM\Menu\Juego.cpp(348,3): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(348,17): error C2100: direccionamiento indirecto no válido
+C:\MMM\Menu\Juego.cpp(350,2): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(350,17): error C2065: 'black': identificador no declarado
+C:\MMM\Menu\Juego.cpp(351,2): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(351,17): error C2065: 'gui': identificador no declarado
+C:\MMM\Menu\Juego.cpp(353,6): error C2065: 'arrastrada': identificador no declarado
+C:\MMM\Menu\Juego.cpp(355,3): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(355,18): error C2065: 'direccion': identificador no declarado
+C:\MMM\Menu\Juego.cpp(358,2): error C2065: 'ventana': identificador no declarado
+C:\MMM\Menu\Juego.cpp(358,16): error C2065: 'FPS': identificador no declarado
+C:\MMM\Menu\Juego.cpp(360,2): error C2065: 'ventana': identificador no declarado
+  Linea.cpp
+  Menu.cpp
+C:\MMM\Menu\Menu.cpp(12,2): error C2065: 'background': identificador no declarado
+C:\MMM\Menu\Menu.cpp(13,2): error C2065: 'background': identificador no declarado
+C:\MMM\Menu\Menu.cpp(14,2): error C2065: 'background': identificador no declarado
+C:\MMM\Menu\Menu.cpp(19,2): error C2065: 'Botons': identificador no declarado
+C:\MMM\Menu\Menu.cpp(20,2): error C2065: 'Botons': identificador no declarado
+C:\MMM\Menu\Menu.cpp(21,2): error C2065: 'Botons': identificador no declarado
+C:\MMM\Menu\Menu.cpp(26,2): error C2065: 'Botons': identificador no declarado
+C:\MMM\Menu\Menu.cpp(31,18): error C2065: 'botons': identificador no declarado
+C:\MMM\Menu\Menu.cpp(31,2): error C3531: 'btn': un símbolo cuyo tipo contiene 'auto' debe tener un inicializador
+C:\MMM\Menu\Menu.cpp(31,16): error C2143: error de sintaxis: falta ';' delante de ':'
+C:\MMM\Menu\Menu.cpp(31,24): error C2143: error de sintaxis: falta ';' delante de ')'
+C:\MMM\Menu\Menu.cpp(51,16): error C2065: 'background': identificador no declarado
+C:\MMM\Menu\Menu.cpp(52,18): error C2065: 'Botons': identificador no declarado
+C:\MMM\Menu\Menu.cpp(52,2): error C3531: 'btn': un símbolo cuyo tipo contiene 'auto' debe tener un inicializador
+C:\MMM\Menu\Menu.cpp(52,16): error C2143: error de sintaxis: falta ';' delante de ':'
+C:\MMM\Menu\Menu.cpp(52,24): error C2143: error de sintaxis: falta ';' delante de ')'
+  Tablero.cpp
+C:\MMM\Menu\Tablero.cpp(32,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(32,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(32,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(32,22): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(32,22): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(32,22): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(33,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(33,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(33,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(34,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(34,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(34,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(39,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(39,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(39,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(40,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(40,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(40,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(41,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(41,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(41,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(46,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(46,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(46,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(47,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(47,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(47,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(48,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(48,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(48,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(53,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(53,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(53,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(54,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(54,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(54,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(55,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(55,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(55,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(60,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(60,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(60,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(61,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(61,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(61,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(62,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(62,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(62,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(67,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(67,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(67,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(68,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(68,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(68,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(69,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(69,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(69,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(77,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(77,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(77,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(80,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(80,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(80,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(83,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(83,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(83,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(86,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(86,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(86,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(89,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(89,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(89,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+C:\MMM\Menu\Tablero.cpp(92,8): error C2259: "Linea": no se puede crear una instancia de una clase abstract
+C:\MMM\Menu\Linea.h(18,7): message : vea la declaración de 'Linea'
+C:\MMM\Menu\Tablero.cpp(92,8): message : debido a los siguientes miembros:
+C:\MMM\Menu\Tablero.cpp(92,8): message : 'void sf::Drawable::draw(sf::RenderTarget &,sf::RenderStates) const': es abstracto
+C:\MMM\SFML-2.6.1\include\SFML\Graphics\Drawable.hpp(69,18): message : vea la declaración de 'sf::Drawable::draw'
+  Generando código...
